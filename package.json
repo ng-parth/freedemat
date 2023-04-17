@@ -1,0 +1,16 @@
+{
+  "name": "free_demat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cpdeploy": "cp src/* build/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/currencygreeks/freedemat.git"
+  },
+  "author": "Parth Mistry",
+  "license": "ISC"
+}
